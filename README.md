@@ -1,4 +1,6 @@
-# Team name
+# Команда Beta
+***удалённые, самоизоляционные***
+
 Team slogan 
 
 ## Members:
