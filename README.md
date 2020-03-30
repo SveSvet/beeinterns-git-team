@@ -1,5 +1,5 @@
 # Team name
-Team slogan 
+beta
 
 ## Members:
 * Митюхина Светлана                        Лид
