@@ -2,8 +2,8 @@
 Team slogan 
 
 ## Members:
-* Митюхина Светлана                        Лид
-* Терехин Артем Михайлович                 Разработчик 1
-* Котлер Роман Валерьевич                  Разработчик 2
-* Назаров Алексей Геннадьевич              Разработчик 3
-* Полонский-Буслаев Игорь Александрович    Тестировщик
+* Mityukhina Svetlana                      Leader
+* Terekhin Artem Mikhaylovich              Developer 1
+* Kotler Roman Valer'yevich                Developer 2
+* Nazarov Aleksey Gennad'yevich            Developer 3
+* Polonskiy-Buslaev Igor' Aleksandrovich   Tester
