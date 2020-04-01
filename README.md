@@ -1,4 +1,6 @@
-# Команда Beta
+# Beta Team
+***remote, self-insulating***
+
 beta
 
 ## Members:
