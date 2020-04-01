@@ -1,8 +1,6 @@
 # Beta Team
 ***remote, self-insulating***
 
-beta
-
 ## Members:
 * Mityukhina Svetlana                      Leader
 * Terekhin Artem Mikhaylovich              Developer 1
