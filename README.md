@@ -1,5 +1,5 @@
-# Team name
-Team slogan 
+# Команда Beta
+beta
 
 ## Members:
 * Mityukhina Svetlana                      Leader
