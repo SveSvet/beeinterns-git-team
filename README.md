@@ -1,5 +1,5 @@
-# Команда Beta
-***удалённые, самоизоляционные***
+# Beta Team
+***remote, self-insulating***
 
 Team slogan 
 
